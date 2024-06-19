@@ -1,0 +1,6 @@
+@NotMappedAttributeListObject_HostAddress = http://localhost:5066
+
+GET {{NotMappedAttributeListObject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
